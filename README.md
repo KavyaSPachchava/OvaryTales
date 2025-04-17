@@ -1,5 +1,5 @@
 
-# 🌸 Ovarytales:Decoding the silent signs of PCOS with data, science, and care.
+# 🌸 Ovarytales: Decoding the silent signs of PCOS with data, science, and care.
 
 _"In every cycle lies a story, in every feature a whisper.  
 Through data we listen, through models we see clearer."_  
