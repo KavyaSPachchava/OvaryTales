@@ -59,8 +59,8 @@ This project uses the publicly available PCOS dataset, which can be found [here]
 ## 👥 Team
 
 This project is crafted with care by:
-- **Nandhika Rajmanikandan**
-- **Kavya Sri Pachchava** 
+- **Kavya Sri Pachchava**
+- **Nandhika Rajmanikandan** 
 
 ---
 
